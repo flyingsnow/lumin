@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>JoyStick Demo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>382</Column0><Column1>0</Column1><Column2>27</Column2><Column3>1242260</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>26</ColumnWidth0><ColumnWidth1>909</ColumnWidth1><ColumnWidth2>242</ColumnWidth2><ColumnWidth3>60</ColumnWidth3></Build>
+      <Find-in-Files>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+        
+        
+      <ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>25</ColumnWidth0><ColumnWidth1>1214</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4130-3787</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>JoyStick Demo</ExpandedNode><ExpandedNode>JoyStick Demo/EWARMv5</ExpandedNode><ExpandedNode>JoyStick Demo/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14859-12183</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21718-12464</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-10509-12878</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h</Filename><XPos>0</XPos><YPos>417</YPos><SelStart>17822</SelStart><SelEnd>17822</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\inc\usb_prop.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>2152</SelStart><SelEnd>2153</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\usb_desc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1137</SelStart><SelEnd>1137</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>3047</SelStart><SelEnd>3047</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\usb_pwr.c</Filename><XPos>0</XPos><YPos>188</YPos><SelStart>6601</SelStart><SelEnd>6601</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h</Filename><XPos>0</XPos><YPos>146</YPos><SelStart>5498</SelStart><SelEnd>5498</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>152</YPos><SelStart>6282</SelStart><SelEnd>6282</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>161</YPos><SelStart>7845</SelStart><SelEnd>7845</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32_USB-FS-Device_Driver\src\usb_init.c</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2954</SelStart><SelEnd>2954</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\usb_prop.c</Filename><XPos>0</XPos><YPos>110</YPos><SelStart>4351</SelStart><SelEnd>4351</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\usb_istr.c</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>2604</SelStart><SelEnd>2604</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\hw_config.c</Filename><XPos>0</XPos><YPos>172</YPos><SelStart>6794</SelStart><SelEnd>6794</SelEnd></Tab><ActiveTab>11</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>1720</SelStart><SelEnd>1738</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32_USB-FS-Device_Driver\inc\usb_core.h</Filename><XPos>0</XPos><YPos>112</YPos><SelStart>4408</SelStart><SelEnd>4408</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>341</YPos><SelStart>10556</SelStart><SelEnd>10556</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\inc\platform_config.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1411</SelStart><SelEnd>1411</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\inc\hw_config.h</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>1853</SelStart><SelEnd>1853</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>4794</SelStart><SelEnd>4813</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\usb_endp.c</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>1923</SelStart><SelEnd>1923</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Work\JTAG\CotrtexM3\ST_LinkIII\Demo\UserCodes\src\main.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1827</SelStart><SelEnd>1827</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c1a948><key>iaridepm.enu1</key></Toolbar-00c1a948></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>610</Bottom><Right>429</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>211864</sizeHorzCY><sizeVertCX>336719</sizeVertCX><sizeVertCY>648305</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>288</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>290</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>307203</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>211864</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

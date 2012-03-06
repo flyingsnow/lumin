@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>GPIO Demo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>242</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>26</ColumnWidth0><ColumnWidth1>909</ColumnWidth1><ColumnWidth2>242</ColumnWidth2><ColumnWidth3>60</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1214</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20848-8531</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>GPIO Demo</ExpandedNode><ExpandedNode>GPIO Demo/CMSIS</ExpandedNode><ExpandedNode>GPIO Demo/EWARMv5</ExpandedNode><ExpandedNode>GPIO Demo/StdPeriph_Driver</ExpandedNode><ExpandedNode>GPIO Demo/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26453-10882</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-24947-11320</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\UserCodes\src\hw_config.c</Filename><XPos>0</XPos><YPos>125</YPos><SelStart>5128</SelStart><SelEnd>5128</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\STM32+ADS\STM32F10x_StdPeriph_Lib_V3.4.0\Project\STM32F10x_StdPeriph_Examples\TIM\PWM_Output\main.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>5036</SelStart><SelEnd>5036</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\UserCodes\src\main.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>2043</SelStart><SelEnd>2043</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>5691</SelStart><SelEnd>5706</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>2427</SelStart><SelEnd>2443</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h</Filename><XPos>0</XPos><YPos>255</YPos><SelStart>8346</SelStart><SelEnd>8346</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\UserCodes\inc\hw_config.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1152</SelStart><SelEnd>1152</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\STM32+ADS\STM32F10x_StdPeriph_Lib_V3.4.0\Project\STM32F10x_StdPeriph_Examples\TIM\PWM_Output\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>4511</SelStart><SelEnd>4528</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\luminch_one\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</Filename><XPos>0</XPos><YPos>514</YPos><SelStart>18088</SelStart><SelEnd>18088</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\workplace\STM32+ADS\STM32F10x_StdPeriph_Lib_V3.4.0\Project\STM32F10x_StdPeriph_Examples\TIM\TIM10_PWMOutput\main.c</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>4179</SelStart><SelEnd>4254</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Merged Volume 'STUDY' (D)\Software\Develop\IAR EWARM\IAR-STMEVKIT&#x4ee3;&#x7801;\GPIO\UserCodes\src\main.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2167</SelStart><SelEnd>2212</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01c3f1f0><key>iaridepm.enu1</key></Toolbar-01c3f1f0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>724</Bottom><Right>316</Right><x>-2</x><y>-2</y><xscreen>456</xscreen><yscreen>147</yscreen><sizeHorzCX>237500</sizeHorzCX><sizeHorzCY>145833</sizeHorzCY><sizeVertCX>165625</sizeVertCX><sizeVertCY>720238</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>239</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>241</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>239087</sizeHorzCY><sizeVertCX>237500</sizeVertCX><sizeVertCY>145833</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
