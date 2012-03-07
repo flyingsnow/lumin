@@ -41,7 +41,8 @@ void Set_System(void)
      initialize the PLL and update the SystemFrequency variable. */
   SystemInit();
     /* TIM3 clock enable */
-  RCC_APB1PeriphClockCmd(RCC_APB1Periph_TIM3, ENABLE);
+  RCC_APB2PeriphClockCmd(RCC_APB2Periph_TIM1 | RCC_APB2Periph_GPIOA | RCC_APB2Periph_ADC1|
+                         RCC_APB2Periph_GPIOB |RCC_APB2Periph_AFIO, ENABLE);
   /* Configure the used GPIOs*/
   GPIO_Configuration();
 }
@@ -130,21 +131,20 @@ void GPIO_Configuration(void)
 {
   GPIO_InitTypeDef GPIO_InitStructure;
   
-  RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);   
-   /* Configure PB.06, PB.07, PB.08 and PB.09 as Output push-pull */
-  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_6 | GPIO_Pin_7 | GPIO_Pin_8 ;
-  GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
-  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
-  GPIO_Init(GPIOB, &GPIO_InitStructure);
-  
- 
-  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_5;
-  GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+  /* GPIOA Configuration: Channel 1, 2 and 3 as alternate function push-pull */
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_8 | GPIO_Pin_9 | GPIO_Pin_10 | GPIO_Pin_11;
   GPIO_InitStructure.GPIO_Mode = GPIO_Mode_AF_PP;
+  GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+  GPIO_Init(GPIOA, &GPIO_InitStructure);
+
+  /* Configure PA.0 (ADC Channel0) as analog input -------------------------*/
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_0;
+  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_AIN;
+  GPIO_Init(GPIOA, &GPIO_InitStructure);
+  
+  /* GPIOB Configuration: Channel 1N, 2N and 3N as alternate function push-pull */
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13 | GPIO_Pin_14 | GPIO_Pin_15;
   GPIO_Init(GPIOB, &GPIO_InitStructure);
-  
-  
-  GPIO_PinRemapConfig(GPIO_PartialRemap_TIM3, ENABLE);	
 }
 
 /*******************************************************************************
